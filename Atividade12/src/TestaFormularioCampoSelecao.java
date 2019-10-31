@@ -9,7 +9,7 @@
  * @author 17114290006
  */
 public class TestaFormularioCampoSelecao {
-    public static void main(String[] args) {
+     public static void main(String[] args) {
         FormularioCampoSelecao formulario = new FormularioCampoSelecao();
         formulario.setVisible(true);
     }
